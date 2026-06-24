@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS NFT Marketplace",
+  "description": "A futuristic Web3 NFT marketplace for trading rare digital art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
